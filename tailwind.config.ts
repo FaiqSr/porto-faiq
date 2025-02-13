@@ -9,10 +9,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        background: "#FBFBFB",
       },
     },
   },
   plugins: [],
+  darkMode: "class",
 } satisfies Config;
