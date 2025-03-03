@@ -19,10 +19,7 @@ function MomentSection() {
       <section className="container mx-auto flex flex-col items-center">
         <h2 className={`${lugrasimo.className} text-2xl mb-3`}>How we take a picture</h2>
         <p className="lg:text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, voluptatum quae veniam velit voluptas ducimus
-          veritatis animi odit rerum beatae dolor numquam maiores modi itaque. Assumenda, officia quas quos porro, qui,
-          impedit est nesciunt aliquam dolore maxime quis ipsum laudantium similique! Ducimus voluptate est fugiat
-          officia facere ab explicabo eveniet.
+          Dengan menangkap momen yang indah sebuah gambar bisa berbicara tentang apa yang sedang terjadi
         </p>
         <p className="py-5">
           See our instagram{" "}

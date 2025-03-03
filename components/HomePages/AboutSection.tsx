@@ -13,13 +13,9 @@ function AboutSection() {
         <h3 className={`${lugrasimo.className} mb-3`}>FaiqSR</h3>
         <h2 className={`${lugrasimo.className} text-3xl mb-2`}>About</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis cum quos necessitatibus nisi est, maxime
-          dicta inventore repudiandae fugit adipisci quis doloremque veniam nemo voluptatum delectus numquam sint
-          maiores ipsam, quisquam esse, quibusdam rerum. Nemo molestiae tempora, itaque veritatis, assumenda a ipsam ex
-          distinctio, magnam quibusdam numquam! Nemo, deleniti nam amet reprehenderit quasi omnis in! A repellendus sit
-          error quas nam eius rerum praesentium. Vero perferendis sequi, exercitationem quod, repellendus, sit fuga
-          consectetur in dicta nemo eum magni alias velit adipisci amet? Velit voluptatibus aliquam modi ipsa ut eaque
-          ullam voluptates sint vitae deleniti, quis dignissimos. Quod placeat nam doloremque.
+          Saya adalah seorang mahasiswa jurusan Teknologi Rekayasa Komputer di IPB University. Saya menyukai dunia
+          photography karena sangat menyenangkan menangkap gambar bersama dengan perasaan yang terbawa. Selain itu juga
+          saya suka dengan perkembangan teknologi terbaru.
         </p>
       </section>
       <section className="w-full lg:w-1/2 flex items-center justify-center">
