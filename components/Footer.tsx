@@ -5,7 +5,7 @@ function Footer() {
     <>
       <footer>
         <div className="flex justify-center items-center h-16 bg-slate-100 border-t-2">
-          <p>© 2021 Alreda Photograph</p>
+          <p>© 2025 Faiq Subhi Ramadlan</p>
         </div>
       </footer>
     </>
