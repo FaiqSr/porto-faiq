@@ -48,7 +48,6 @@ const ImagePicture = (props: ImageProps) => {
         </section>
         <section className="text-center py-7 ">
           <h3 className={`text-xl ${lugrasimo.className}`}>{props.text}</h3>
-          <p>Lorem ipsum dolor sit amet.</p>
         </section>
       </section>
     </>
