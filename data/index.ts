@@ -69,7 +69,7 @@ export const galeryImage = [
   },
   {
     id: 5,
-    src: "./images/famili/6.jpg",
+    src: "./images/famili/6.JPG",
     alt: "img5"
   },
   {
@@ -134,12 +134,12 @@ export const galeryImage = [
   },
   {
     id: 18,
-    src: "./images/micro/1.jpg",
+    src: "./images/micro/1.JPG",
     alt: "img18"
   },
   {
     id: 19,
-    src: "./images/micro/2.jpg",
+    src: "./images/micro/2.JPG",
     alt: "img19"
   },
   {
