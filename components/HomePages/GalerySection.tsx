@@ -33,7 +33,7 @@ const ImageRow = (props: ImageProps) => {
   return (
     <>
       <section className="w-40 h-40 sm:w-80 sm:h-80">
-        <LazyLoadImage loading="lazy" src={props.src} className="object-cover w-full h-full" />
+        <LazyLoadImage loading="lazy" alt={props.alt} src={props.src} className="object-cover w-full h-full" />
       </section>
     </>
   );

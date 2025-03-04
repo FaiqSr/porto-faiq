@@ -44,7 +44,7 @@ const ImagePicture = (props: ImageProps) => {
     <>
       <section className="flex flex-col lg:max-w-[400px] text-slate-500 hover:text-slate-950 transition-all">
         <section className="lg:w-[400px] lg:h-[400px]">
-          <LazyLoadImage src={props.src} className="object-cover h-full w-full" />
+          <LazyLoadImage alt={props.alt} src={props.src} className="object-cover h-full w-full" />
         </section>
         <section className="text-center py-7 ">
           <h3 className={`text-xl ${lugrasimo.className}`}>{props.text}</h3>

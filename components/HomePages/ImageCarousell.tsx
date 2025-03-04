@@ -30,7 +30,13 @@ export default function ImageCarousell(props: ImageProps) {
         style={{ paddingLeft: padding, paddingRight: padding }}
         suppressHydrationWarning
       >
-        <LazyLoadImage src={props.src} width={1920} height={1080} className="object-fill w-full max-h-svh rounded-lg" />
+        <LazyLoadImage
+          alt={props.alt}
+          src={props.src}
+          width={1920}
+          height={1080}
+          className="object-fill w-full max-h-svh rounded-lg"
+        />
       </m.section>
     </>
   );
