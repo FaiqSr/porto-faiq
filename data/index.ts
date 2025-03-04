@@ -49,7 +49,7 @@ export const momentSectionImage = [
 export const galeryImage = [
   {
     id: 1,
-    src: "./images/famili/1.JPG",
+    src: "./images/famili/1.jpg",
     alt: "img1"
   },
   {
